@@ -1,3 +1,4 @@
+![logo](https://github.com/ShubhiGitCs/ShubhiGitCs/blob/main/repo2.png)
 <h1 align="center">Hi 👋, I'm Shubhi</h1>
 <h3 align="center">A passionate, Hard Working and an enthusiastic Software developer from India</h3>
 
