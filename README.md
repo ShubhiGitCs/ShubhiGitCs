@@ -1,6 +1,4 @@
-<video width="320" height="240" controls>
-  <source src="https://github.com/ShubhiGitCs/ShubhiGitCs/blob/main/Shubhi.mp4" type="video/mp4">
-  </video>
+![logo](https://github.com/ShubhiGitCs/ShubhiGitCs/blob/main/Shubhi%20(1).png)
 <h1 align="center">Hi 👋, I'm Shubhi</h1>
 <h3 align="center">A passionate, Hard Working and an enthusiastic Software developer from India</h3>
 
