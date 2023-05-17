@@ -1,4 +1,4 @@
-<img align="center"![logo](https://github.com/ShubhiGitCs/ShubhiGitCs/blob/main/pikacho.PNG)>
+<img align="center">![logo](https://github.com/ShubhiGitCs/ShubhiGitCs/blob/main/pikacho.PNG)
 <h1 align="center">Hi 👋, I'm Shubhi</h1>
 <h3 align="center">A passionate, Hard Working and an enthusiastic Software developer from India</h3>
 
